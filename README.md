@@ -1,5 +1,4 @@
-##run_analysis.R
-##Version 1.0; June 2014
+##run_analysis.R (Version 1.0; June 2014)
 
 This scripts in the run_analysis.R file includes a single funcion that creates a tidy data set that includes the averages of each variable and each subject from the Human Activity Recognition UsingSmartphones Dataset (Version 1.0),  The analysis on the raw data set is all included in the run_analysis.R file. 
 
@@ -11,11 +10,11 @@ This scripts in the run_analysis.R file includes a single funcion that creates a
 
 Instructions:
 
-1. Confirm that the "UCI HAR Dataset"" directory holding the raw data set is in your working directory.* 
+1. Confirm that the "UCI HAR Dataset" directory holding the raw data set is in your working directory.
 
-2. Confirm that the "reshape" and "reshape2" packages have been installed and library has been performed on both.*
+2. Confirm that the "reshape" and "reshape2" packages have been installed and library has been performed on both.
 
-3. Source the file run_analysis.R: 
+3. Source the file *run_analysis.R*: 
 
 4. From the command line, run the function (no parameters): **createTidyDF()**
 
@@ -25,9 +24,7 @@ Instructions:
 5. Examine your working directory where you will find the file **TidyDF.txt**. 
 
 
-How run_analysis works:
-
-When createTidyDF() is run, it goes through the following activites:
+The createTidyDF() function works by going through the following actions: 
 
 - The function creates an empty data frame that will be used to hold the final tidy data frame.
 - The function then reads all the files from the raw data set that are needed to meet the requirements of the tidy data set.
