@@ -5,7 +5,9 @@ Version 1.0; June 2014
 The analysis on the raw data set is all included in the run_analysis.R file.  
 
 *Note: The "UCI HAR Dataset"" directory holding the raw data set must be in the working directory.*
+
 *Note: The "reshape" package must be installed and the library action performed.*
+
 *Note: The "reshape2" package must be installed and the library action performed.* 
 
 Instructions:
