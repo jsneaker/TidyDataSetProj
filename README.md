@@ -1,5 +1,5 @@
 =======================================================================================================================
-Tidy data set that includes the averages of each variable and each subject from the Human Activity Recognition Using
+This scripts includes a single funcion that creates a tidy data set that includes the averages of each variable and each subject from the Human Activity Recognition Using
 Smartphones Dataset (Version 1.0)
 Version 1.0; June 2014
 =======================================================================================================================
