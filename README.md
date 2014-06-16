@@ -1,8 +1,7 @@
-This scripts includes a single funcion that creates a tidy data set that includes the averages of each variable and each subject from the Human 
-Activity Recognition UsingSmartphones Dataset (Version 1.0)
-Version 1.0; June 2014
+##run_analysis.R
+##Version 1.0; June 2014
 
-The analysis on the raw data set is all included in the run_analysis.R file.  
+'''This scripts in the run_analysis.R file includes a single funcion that creates a tidy data set that includes the averages of each variable and each subject from the Human Activity Recognition UsingSmartphones Dataset (Version 1.0),  The analysis on the raw data set is all included in the run_analysis.R file.'''  
 
 *Note: The "UCI HAR Dataset"" directory holding the raw data set must be in the working directory.*
 
